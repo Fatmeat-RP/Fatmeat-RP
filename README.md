@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Fatmeat-RP
-- 👀 I’m interested in nothing
-- 🌱 I’m currently learning nothing
-- 💞️ I’m looking to collaborate on everything
-- 📫 How to reach me here
+- 👀 I’m interested in a lot of things
+- 🌱 I’m currently learning C inr 42 school
 
 <!---
 Fatmeat-RP/Fatmeat-RP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
