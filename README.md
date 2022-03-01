@@ -2,7 +2,7 @@
 - 👀 I’m interested in a lot of things
 - 🌱 I’m currently learning C inr 42 school
 
-[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/jaeskim?darkmode=true&privacyName=true)](https://github.com/JaeSeoKim/badge42)
+[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/acarle-m?darkmode=true&privacyName=true)](https://github.com/JaeSeoKim/badge42)
 
 <!---
 Fatmeat-RP/Fatmeat-RP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
